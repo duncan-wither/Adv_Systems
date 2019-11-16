@@ -1,6 +1,4 @@
-# Adv_Systems
-Advanced Systems (EM502)
-
+# Adv_System
 This code was written for the EM502 Advance Systems Class.
 
 ## Ball Drop Simulation
